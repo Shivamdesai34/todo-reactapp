@@ -6,12 +6,6 @@ Project link: https://shivamdesai34-todo-reactapp.vercel.app/
 - This app is built using HTML, CSS, React.JS and Material UI.
 - All the dummy todos are fetched using jsonplaceholder.
 
-# ScreenShots
-- Folder structure
-  ![Directory Structure](images/folder_structure.png)
- - Todo Screen
- ![Todo Screen](images/Todo.png)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
